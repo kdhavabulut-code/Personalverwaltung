@@ -1,0 +1,30 @@
+# Build çıktıları
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Rider/JetBrains
+.idea/
+
+# Paketler
+packages/
+*.nupkg
+
+# Yaygın geçici dosyalar
+*.cache
+*.log
+
+# Publish çıktıları
+publish/
+
+# OS / Çeşitli
+.DS_Store
+Thumbs.db
